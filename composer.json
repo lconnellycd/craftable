@@ -39,7 +39,7 @@
         "php": "^8.3",
         "brackets/admin-auth": "dev-master",
         "brackets/admin-listing": "^3.0",
-        "brackets/admin-translations": "^4.0",
+        "brackets/admin-translations": "dev-master",
         "brackets/admin-ui": "dev-master",
         "brackets/advanced-logger": "dev-master",
         "brackets/media": "dev-master",
