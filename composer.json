@@ -37,10 +37,10 @@
     ],
     "require": {
         "php": "^8.3",
-        "brackets/admin-auth": "^7.0",
+        "brackets/admin-auth": "dev-master",
         "brackets/admin-listing": "^3.0",
         "brackets/admin-translations": "^4.0",
-        "brackets/admin-ui": "^4.0",
+        "brackets/admin-ui": "dev-master",
         "brackets/advanced-logger": "dev-master",
         "brackets/media": "dev-master",
         "brackets/translatable": "dev-master",
@@ -65,5 +65,31 @@
         "branch-alias": {
             "dev-master": "8.1-dev"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/lconnellycd/media"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/lconnellycd/craftable"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/lconnellycd/admin-generator"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/lconnellycd/translatable"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/lconnellycd/advanced-logger"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/lconnellycd/admin-ui"
+        }
+    ]
 }
