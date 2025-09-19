@@ -38,7 +38,7 @@
     "require": {
         "php": "^8.3",
         "brackets/admin-auth": "dev-master",
-        "brackets/admin-listing": "^3.0",
+        "brackets/admin-listing": "dev-master",
         "brackets/admin-translations": "dev-master",
         "brackets/admin-ui": "dev-master",
         "brackets/advanced-logger": "dev-master",
