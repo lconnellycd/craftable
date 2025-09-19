@@ -65,11 +65,5 @@
         "branch-alias": {
             "dev-master": "8.1-dev"
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/lconnellycd/media"
-        }
-    ]
+    }
 }
